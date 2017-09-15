@@ -9,14 +9,18 @@ Scoreboard for ACM ICPC programming contest.
 
     1- pNumber: Number of teams.
     2- jsonAddress: Your scoreboard json file in PC^2 judge.
+	
+**3-** Build project.
 
-**3-** Config your apache tomcat server.
+**4-** Config your apache tomcat server.
 
-**4-** Copy all file in root directory of your server.
+**5-** Copy .war file in dist folder to root directory of your server.
 
-**5-** Run your server.
+**6-** Unzip .war file.
 
-**6-** enjoy.
+**7-** Run your server.
+
+**8-** enjoy.
 
 ## Programming language
 
