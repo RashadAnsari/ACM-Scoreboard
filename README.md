@@ -7,7 +7,7 @@ Scoreboard for ACM ICPC programming contest.
 
 **2-** In the Data class change two below variable:
 
-    1- pNumber: Number of teams.
+    1- pNumber: Number of problems.
     2- jsonAddress: Your scoreboard json file in PC^2 judge.
     
 **3-** Change university name and logo in index.jsp file and customize it.
