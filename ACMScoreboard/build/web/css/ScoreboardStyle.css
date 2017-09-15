@@ -1,0 +1,92 @@
+.tabletitle{
+    background-color: #ffffff;
+}
+.boldtext{
+    font-weight: bold;
+}
+table,td,tr{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #818181;
+    border-collapse: inherit;
+    border-spacing: 0px 0px;
+}
+td{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 65px;
+    font-size: 1.1em;
+}
+.accepted{
+    background-color: #88ff88;
+    font-weight: bold;
+}
+.firstaccept{
+    background-color: #00dd00;
+    font-weight: bold;
+}
+.wrong{
+    background-color: #ff8888;
+    font-weight: bold;
+}
+.myrank{
+    background-color: #fff7cc;
+}
+.centertext{
+    text-align: center;
+}
+.questioncolor{
+    color: #5283c4;
+}
+.rowcolor{
+    background-color: #f0f0f0;
+}
+.teamnamecell{
+    width: 300px;
+}
+span.balloon {
+    display: block !important;
+    width: 27px !important;
+    height: 40px !important;
+    margin: 0 auto !important;
+    text-align: center !important;
+    line-height: 30px !important;
+    background: url(../img/balloon.png) -1px -1px no-repeat;
+}
+.color-A {
+    background-color: #52a961 !important;
+    color: #fff;
+}
+.color-B {
+    background-color: #ad3b62 !important;
+    color: #fff;
+}
+.color-C {
+    background-color: #f07b0f !important;
+    color: #fff;
+}
+.color-D {
+    background-color: #990819 !important;
+    color: #fff;
+}
+.color-E {
+    background-color: #945a9e !important;
+    color: #fff;
+}
+.color-F {
+    background-color: white !important;
+}
+.color-G {
+    background-color: gold !important;
+}
+.color-H {
+    background-color: #ea8a9f !important;
+}
+.color-I {
+    background-color: #cf3837 !important;
+    color: #fff;
+}
+.color-J {
+    background-color: #6dbabb !important;
+}
